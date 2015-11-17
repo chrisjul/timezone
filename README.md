@@ -1,2 +1,2 @@
 # timezone
-You want exact Timezone name kindly use this script 
+You want exact Timezone name kindly use christimezone script 
